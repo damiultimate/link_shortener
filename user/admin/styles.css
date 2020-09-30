@@ -1,0 +1,22 @@
+.p-relative {
+    position: relative;
+}
+.main-form {
+    border: 0px;
+    max-width: 950px;
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+}
+.shortfieldz {
+    padding-right: 0px;
+    position: relative;
+}
+.shortfieldz .zmdi-link {
+    position: absolute;
+    font-size: 28px;
+    top: 15px;
+    left: 25px;
+    color: #8c8c8c;
+    pointer-events: none;
+}
